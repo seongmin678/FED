@@ -1,4 +1,4 @@
-📊 FOMC Minutes Sentiment Analysis (연준 회의록 감성 분석)
+## 📊 FOMC Minutes Sentiment Analysis (연준 회의록 감성 분석)
 This project analyzes Federal Reserve meeting minutes from 2015 to 2026 to quantify "Hawkish" and "Dovish" sentiments and their correlation with interest rate fluctuations.
 본 프로젝트는 2015년부터 2026년까지의 연준 회의록을 분석하여 '매파(Hawkish)' 및 '비둘기파(Dovish)' 성향을 정량화하고, 실제 금리 변동과의 상관관계를 입증합니다.
 
